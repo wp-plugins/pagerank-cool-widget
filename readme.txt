@@ -3,7 +3,7 @@ Contributors: Steve
 Tags: pagerank, page rank, informer, widget, plugin
 Requires at least: 2.8
 Tested up to: 3.0.0
-Stable tag: 1.0
+Stable tag: 1.0.1
 
 The widget beautifully shows the Google PageRank for your site.
 
