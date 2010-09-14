@@ -13,7 +13,7 @@ The widget beautifully shows the Google PageRank for your site.
 
 == Installation ==
 
-Typical and eazy installation like any other widget.
+Typical and easy installation like any other widget.
 
 == Screenshots ==
 
