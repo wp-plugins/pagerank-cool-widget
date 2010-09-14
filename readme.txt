@@ -1,4 +1,4 @@
-=== PHP Code Widget ===
+=== PageRank Cool Widget ===
 Contributors: Steve
 Tags: pagerank, page rank, informer, widget, plugin
 Requires at least: 2.8
