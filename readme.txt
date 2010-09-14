@@ -11,6 +11,8 @@ The widget beautifully shows the Google PageRank for your site.
 
 The widget beautifully shows the Google PageRank for your site.
 
+Site of widget: [pagerank-en.500v.net](http://pagerank-en.500v.net "PageRank Widget").
+
 == Installation ==
 
 Typical and easy installation like any other widget.
